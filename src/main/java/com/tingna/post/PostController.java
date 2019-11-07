@@ -12,6 +12,10 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.List;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ae25b79fed11168d904f5d8e5ecaa76c70e81e8e
 @Controller
 @RequiredArgsConstructor
 @RequestMapping("/posts")

@@ -7,6 +7,11 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ae25b79fed11168d904f5d8e5ecaa76c70e81e8e
 @Controller
 @RequiredArgsConstructor
 public class IndexController {
