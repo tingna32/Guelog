@@ -12,6 +12,9 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.List;
 
+/**
+ * Created by wonwoo on 2016. 8. 30..
+ */
 @Controller
 @RequiredArgsConstructor
 @RequestMapping("/posts")

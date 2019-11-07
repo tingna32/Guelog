@@ -24,6 +24,9 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
+/**
+ * Created by wonwoo on 2016. 9. 1..
+ */
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @AutoConfigureMockMvc
