@@ -7,9 +7,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-/**
- * Created by wonwoo on 2016. 9. 10..
- */
+
 
 @Controller
 @RequiredArgsConstructor
