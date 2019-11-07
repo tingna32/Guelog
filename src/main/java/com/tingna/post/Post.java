@@ -11,9 +11,6 @@ import javax.validation.constraints.NotNull;
 import java.time.LocalDateTime;
 import java.util.List;
 
-/**
- * Created by wonwoo on 2016. 8. 30..
- */
 @Data
 @Entity
 public class Post {
