@@ -12,9 +12,6 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by wonwoo on 2016. 8. 15..
- */
 @Data
 @Entity
 public class Category {
