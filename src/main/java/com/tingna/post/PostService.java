@@ -7,9 +7,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.time.LocalDateTime;
 
-/**
- * Created by wonwoo on 2016. 8. 31..
- */
 @Service
 @Transactional
 @RequiredArgsConstructor
