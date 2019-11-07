@@ -3,9 +3,7 @@ package com.tingna.category;
 import lombok.Data;
 import org.hibernate.validator.constraints.NotBlank;
 
-/**
- * Created by wonwoo on 2016. 8. 24..
- */
+
 @Data
 public class CategoryDto {
 
