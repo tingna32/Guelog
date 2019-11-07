@@ -11,9 +11,7 @@ import javax.validation.Valid;
 
 ;
 
-/**
- * Created by wonwoo on 2016. 8. 24..
- */
+
 @Controller
 @RequiredArgsConstructor
 @RequestMapping("/categories")
